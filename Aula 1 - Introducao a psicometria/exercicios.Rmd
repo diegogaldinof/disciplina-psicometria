@@ -7,6 +7,8 @@ output:
    theme: hpstr
 ---
 
+O arquivo `Rmarkdown` que gerou este documento pode ser encontrado [aqui](https://github.com/diegogaldinof/disciplina-psicometria/blob/master/Aula%201%20-%20Introducao%20a%20psicometria/exercicios.Rmd).
+
 ## Exercício 1
 
 <br>
